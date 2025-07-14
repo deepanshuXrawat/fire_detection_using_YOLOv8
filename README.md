@@ -70,7 +70,7 @@ python main.app
 ---
 
 ## Training Result
-![Alt text](assests/result.png)
+![Alt text](assets/result.png)
 
 ## Model Result
 
