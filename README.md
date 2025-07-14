@@ -1,8 +1,11 @@
 # 🔥 Fire Detection System
 
 A computer vision-based project that detects fire in images, videos, or real-time webcam feeds using YOLOv8 model.
+<<<<<<< HEAD
 
 This project works via **Camera** and **scanning images**
+=======
+>>>>>>> f7a5ccbf94eeedd90d9250e01124850a1d500afb
 
 ---
 
@@ -20,12 +23,20 @@ cd fire_detection_using_YOLOv8
 python -v 3.9.13 / 3.12.7
 ```
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f7a5ccbf94eeedd90d9250e01124850a1d500afb
 ## Import Modules
 
 ```bash
 pip install -r requirements.txt
 ```
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f7a5ccbf94eeedd90d9250e01124850a1d500afb
 ## How to Run
 
 ```bash
